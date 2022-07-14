@@ -22,10 +22,23 @@ a {
   color: black;
   text-decoration: none;
   padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
 }
 a:hover {
   border-width: 3px;
 }
 a:active {
   border-width: 1px;
+}
+.left,
+.right {
+  width: 50vw;
+  float: left;
+}
+
+.right {
+}
+
+.left {
 }
