@@ -3,6 +3,10 @@ body {
   overflow-x: hidden;
 }
 
+* {
+  transition: 100ms;
+}
+
 section {
   width: 100vw;
   height: 100vh;
@@ -11,11 +15,17 @@ section {
 img {
   width: 100px;
   height: 100px;
-  transition: 250ms;
 }
-
-
 
 a {
   border: black 2px solid;
+  color: black;
+  text-decoration: none;
+  padding: 10px;
+}
+a:hover {
+  border-width: 3px;
+}
+a:active {
+  border-width: 1px;
 }
