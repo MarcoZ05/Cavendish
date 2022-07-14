@@ -42,6 +42,11 @@ a:active {
   height: 30vh;
 }
 
+.character .left,
+.character .right {
+  height: 30vh;
+}
+
 .bottom {
   width: 100vw;
   height: 10vh;
