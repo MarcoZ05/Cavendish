@@ -47,6 +47,11 @@ a:active {
   height: 30vh;
 }
 
+.top {
+  height: 90vh;
+  width: 100vw;
+}
+
 .bottom {
   width: 100vw;
   height: 10vh;

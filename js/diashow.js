@@ -1,8 +1,24 @@
 let pictureURLs = [
-  "../images/w(1).png",
-  "../images/w(2).png",
-  "../images/w(3).png",
-  "../images/w(1).jpg",
+  "../images/Maya_1.jpeg",
+  "../images/Maya_2.jpeg",
+  "../images/Maya_3.jpeg",
+  "../images/Mika_Marco_1.jpeg",
+  "../images/Mika_Marco_2.jpeg",
+  "../images/Mika_Marco_3.jpeg",
+  "../images/Mika_Marco_4.jpeg",
+  "../images/Mika_Marco_5.jpeg",
+  "../images/Mika_Marco_6.jpeg",
+  "../images/Andi_1.jpeg",
+  "../images/Andi_2.jpeg",
+  "../images/Andi_3.jpeg",
+  "../images/Andi_4.jpeg",
+  "../images/Darsteller_1.jpeg",
+  "../images/Darsteller_2.jpeg",
+  "../images/Darsteller_3.jpeg",
+  "../images/Gruppe_1.jpeg",
+  "../images/Gruppe_2.jpeg",
+  "../images/Gruppe_3.jpeg",
+  "../images/Gruppe_4.mp4",
 ];
 
 const pic = [
